@@ -3,7 +3,7 @@
 > Análise inteligente da sua carteira com Python e IA — relatórios em linguagem natural, métricas quantitativas e sugestões de rebalanceamento.
 
 ---
-
+ 
 ## Sobre o projeto
 
 O **Agente de Carteira** é uma ferramenta de linha de comando que conecta dados financeiros em tempo real com modelos de linguagem (LLMs) para transformar números em insights acionáveis. Você informa sua carteira, e o agente calcula métricas como Sharpe Ratio, volatilidade e correlação entre ativos — depois pede à IA para explicar tudo em português claro.
